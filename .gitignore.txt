@@ -1,0 +1,16 @@
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar archivos específicos de usuario
+*.user
+*.suo
+
+# Ignorar archivos y carpetas de Visual Studio
+.vs/
+
+# Ignorar paquetes NuGet
+packages/
+
+# Ignorar archivos de log
+*.log
