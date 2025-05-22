@@ -33,7 +33,8 @@ Asegúrate de tener acceso a una instancia local de SQL Server.
 Ejecuta el proyecto desde la terminal o con la opción de depuración.
 
 
-📌 Público objetivo
+📌 Público objetivo:
+
 Aunque el proyecto fue creado como parte de una asignación académica, puede ser útil para cualquier persona
 que desee una solución simple para administrar contactos desde la línea de comandos.
 
