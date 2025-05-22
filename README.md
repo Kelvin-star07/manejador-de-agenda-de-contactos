@@ -37,7 +37,8 @@ Ejecuta el proyecto desde la terminal o con la opción de depuración.
 Aunque el proyecto fue creado como parte de una asignación académica, puede ser útil para cualquier persona
 que desee una solución simple para administrar contactos desde la línea de comandos.
 
-📂 Estructura del proyecto
+📂 Estructura del proyecto:
+
 Program.cs – Punto de entrada de la aplicación.
 
 Agenda.cs – Clase principal para la gestión de contactos.
@@ -50,6 +51,6 @@ conexionDB.cs – Clase que administra la conexión con la base de datos.
 
 Script_db_sql.txt – Script para la creación de la base de datos.
 
- Estado del proyecto
+## Estado del proyecto
  
 Actualmente, el proyecto se encuentra en su versión inicial y no se tienen planes definidos para futuras funcionalidades.
