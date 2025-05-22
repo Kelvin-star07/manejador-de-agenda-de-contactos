@@ -1,0 +1,15 @@
+-- Crear la base de datos
+CREATE DATABASE AgendaContacto;
+
+-- Usar la base de datos
+USE AgendaContacto;
+
+-- Crear la tabla Agendas
+CREATE TABLE Agendas (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(100) NOT NULL,
+    Apellidos NVARCHAR(100) NOT NULL,
+    Empresa NVARCHAR(100),
+    Telefono NVARCHAR(50),
+    Correo NVARCHAR(100)
+);
